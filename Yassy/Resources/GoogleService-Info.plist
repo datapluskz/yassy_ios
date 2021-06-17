@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>479540216169-8rhj5a345fr14v98pgqhci083llcgf8u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.479540216169-8rhj5a345fr14v98pgqhci083llcgf8u</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBg-ORrfQasrQUC8ps9iRSDRAWnyCtEumc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>479540216169</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>kz.yassy.taxi</string>
+	<key>PROJECT_ID</key>
+	<string>yassy-taxi</string>
+	<key>STORAGE_BUCKET</key>
+	<string>yassy-taxi.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:479540216169:ios:e9ace4820a21efaa0bfdf8</string>
+	<key>DATABASE_URL</key>
+	<string>https://yassy-taxi-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
